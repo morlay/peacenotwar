@@ -1,0 +1,12 @@
+{
+  "name": "peacenotwar",
+  "version": "10.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "cd __example__/ && pnpm i",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
